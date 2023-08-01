@@ -38,3 +38,6 @@ tmp*
 training/datasets/__pycache__/**/*
 training/options/__pycache__/**/*
 training/hparams/edf_gestures/*
+.python-version
+poetry.lock
+pyproject.toml
