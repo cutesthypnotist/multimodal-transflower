@@ -41,3 +41,4 @@ training/hparams/edf_gestures/*
 .python-version
 poetry.lock
 pyproject.toml
+transflower/*
