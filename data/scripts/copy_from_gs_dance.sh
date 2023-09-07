@@ -1,9 +1,7 @@
 #!/bin/bash
 
 src_dir=$1
-gsutil -m cp -R gs://metagen/${src_dir} data/
-
-exit 0
+#gsutil -m cp -R gs://metagen/${src_dir} data/
 
 data_dir=.
 #data_dir=$SCRATCH/data
